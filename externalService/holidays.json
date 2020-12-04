@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "date": "08/12/2020",
+    "type": "Municipal",
+    "description": "Dia da Padroeira"
+  },
+  {
+    "id": 2,
+    "date": "25/12/2020",
+    "type": "Nacional",
+    "description": "Natal"
+  },
+  {
+    "id": 3,
+    "date": "01/01/2021",
+    "type": "Nacional",
+    "description": "Ano Novo"
+  }
+]
